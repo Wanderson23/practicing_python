@@ -1,9 +1,8 @@
 # Gerador de Recibos
 
-Este projeto é um gerador de recibos desenvolvido em Python, utilizando a biblioteca **Tkinter** para a interface gráfica e **FPDF** para a geração de PDFs. O aplicativo permite que você insira informações do cliente, tipo de consulta e o valor, e gera um recibo em PDF com essas informações.
+Este projeto é um gerador de recibos feito para uma cliente. O aplicativo permite que você insira informações do paciente, tipo de consulta e o valor, e gera um recibo em PDF com essas informações.
 
-
-## Funcionalidades
+## Interface e Funcionalidades
 
 ![Interface/ Tkinter](images/reciboimg.PNG)
 
@@ -12,9 +11,9 @@ Este projeto é um gerador de recibos desenvolvido em Python, utilizando a bibli
 - Validação de entrada para garantir que todos os campos sejam preenchidos corretamente.
 - Capacidade de salvar o recibo gerado em um local escolhido pelo usuário.
 
-Exemplo:
+## Exemplo resultado final arquivo pdf gerado:
 
-![Recibo/ PDF](images/reciboresult.PNG)
+<img src="images/reciboresult.PNG" alt="Recibo/ PDF" width="400" />
 
 ## Tecnologias Utilizadas
 
@@ -23,4 +22,3 @@ Exemplo:
 - **FPDF**: Biblioteca para geração de arquivos PDF.
 - **num2words**: Biblioteca para converter números em palavras.
 - **datetime**: Para manipulação de datas.
-
