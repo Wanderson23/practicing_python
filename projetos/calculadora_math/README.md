@@ -2,7 +2,7 @@
 
 ![Calculadora Científica](images/calculadora.PNG)
 
-Este projeto é uma Calculadora Científica desenvolvida com o framework **Flet**, permitindo a realização de operações matemáticas avançadas, como adição, subtração, multiplicação, divisão, potências e funções trigonométricas.
+Este projeto é uma Calculadora Científica desenvolvida com o framework **Flet**, permitindo a realização de operações matemáticas avançadas, como potências e funções trigonométricas, além de calculos básicos como adição, subtração, multiplicação e divisão.
 
 ## Funcionalidades
 
